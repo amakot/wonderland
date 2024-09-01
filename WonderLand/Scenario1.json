@@ -1,0 +1,993 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "text": "You see the White Rabbit running by, looking at his pocket watch. He seems very worried and keeps repeating, \n'I'm late! I'm too late!!'\n You decide to follow him. You see the rabbit hole. What will you do?",
+      "answers": [
+        {
+          "text": "Jump into the hole",
+          "nextNodeId": 2
+        },
+        {
+          "text": "Continue on your way",
+          "nextNodeId": 3
+        }
+      ],
+      "tries": 2
+    },
+    {
+      "id": 2,
+      "text": "You fall into a deep rabbit hole and find yourself in a strange room with many doors. The room is very oddly looking. On a table, you see a bottle labeled 'Drink Me'. What will you do?",
+      "answers": [
+        {
+          "text": "Drink the contents of the bottle",
+          "nextNodeId": 4
+        },
+        {
+          "text": "Look for the exit",
+          "nextNodeId": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "You decide not to follow the Rabbit and continue on your way. And finally, you totally forgot that rabbit, and everything that happened. \nAnd you continue to live your quiet and unremarkable life.\n \nAre you happy now?\n",
+      "answers": [
+        {
+          "text": "Restart the game?",
+          "nextNodeId": 1
+        },
+        {
+          "text": "Exit to the main menu",
+          "nextNodeId": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "You drink the contents of the bottle and start to shrink. You shrink so much that you can't reach the key on the table. You are stuck in the room forever. You can't be calm with these thoughts.\nSuddenly you remember your mum and dad, your friends, even your foes. You remember every time you skipped a lesson at CZU because you wanted to sleep a little more. Remember all of your unfinished homeworks, and games that you played while sitting on lectures.\n \nAnd you start to cry.\n \n You cry so much that you see a small pool beneath you, but you can't stop your tears. You cry so much that you eventually cried a river. This river raised you to the height of the table, where you see a big cake and a key. What will you do?",
+      "answers": [
+        {
+          "text": "Eat the cake",
+          "nextNodeId": 6
+        },
+        {
+          "text": "Take the key",
+          "nextNodeId": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "You look for the exit in this strange room. But you realise that every door in this place is closed, so you look for the key. You see a bottle and a small key on the table. What will you do?",
+      "answers": [
+        {
+          "text": "Drink the contents of the bottle",
+          "nextNodeId": 4
+        },
+        {
+          "text": "Take the key",
+          "nextNodeId": 8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "When you pick up the cake from the table to eat it, you see a note underneath it, as small as the cake was. The note says, 'After you eat you will shrink in size'. You understand that you don't need to become even smaller, because the only key in this room is the size of you right now. So you thinking about taking the cake with you or not. And then you take the key",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "You take the key and swim to open the door. After you open the door, a wave of water throws you into it, and you find yourself in a beautiful garden. There you see a lot of high flowers and you walk along a well-trodden granite path through huge flowers and a grass the size of a 9 level building. Suddenly you see two ants the same size of you. Maybe ants are not scary for the ordinary people, but when they are your size it gives you thrill. \nYou are so scared of them, and when they see you, and the fear in your eyes, they come closer. What will you do?\n",
+      "answers": [
+        {
+          "text": "Run away",
+          "nextNodeId": 9
+        },
+        {
+          "text": "See what happened next",
+          "nextNodeId": 10
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "You take the key, and find the smallest door that fits it. But you are too big to fit through it. You wander what to do next, and suddenly you remember about the bottle, you finally drink it and becoming small. You take the key and going to open the door where you find yourself in a beautiful garden. There you see a lot of high flowers and you walk along a well-trodden granite path through huge flowers and a grass the size of a 9 level building. Suddenly you see two ants the same size of you. Maybe ants are not scary for the ordinary people, but when they are your size it gives you thrill. \nYou are so scared of them, and when they see you, and the fear in your eyes, they come closer. What will you do?\n",
+      "answers": [
+        {
+          "text": "Run away",
+          "nextNodeId": 9
+        },
+        {
+          "text": "See what happened next",
+          "nextNodeId": 71
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "You decide to stay and see what happens next. but with each step these ants take, they get closer and closer, so does the blood in your veins get colder and colder. \nChills run through your entire body when suddenly you hear: \n'HEY WATSUP MATE!'\nYou think you misheard it, but quickly realize that's not the case. You understand that it's the ants shouting at you:\n'Is this muppet deaf, or am I not speakin' right?'\n'Nah, Liam, you’re talkin’ fine, maybe he’s just not from around here at all.'",
+      "answers": [
+        {
+          "text": "'Who are you?'",
+          "nextNodeId": 72
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "'Oi, you asking who are we? Have a look at yourself mate!' Standing here like a bloody matchstick, what are you doin' here, hangin' 'round here in out turf mate?'",
+      "answers": [
+        {
+          "text": "'I'm sorry, I didn't know this is your turf'",
+          "nextNodeId": 73
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "You saying sorry for being on their territory and quickly telling your story, that you don't even understand where are you even at. \nThose two ants have looked at each other and then back at you. \n'Alright, mate, looks like you ain’t lyin’. Listen, I know how to sort you out. I’ve got a mate who can help ya.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 74
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "The ants took you somewhere between the grass and trees, and you see a big wooden stick sticking out of the ground. \n 'Here mate, here it is' - one of the ants says. \n You look at the stick and you don't understand what's going on, til a big drop of liquid falls down on you. You step back, and you see the Rabbit sitting and drinking tea, and the stick was a table leg this whole time. \nSuddenly the Rabbit looks at you and says \n'What are you doing here?'",
+      "answers": [
+        {
+          "text": "Tell him what happened to you",
+          "nextNodeId": 10
+        },
+        {
+          "text": "Ask him the same question",
+          "nextNodeId": 10
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "As soon as you see them coming closer, you turn around and began to ran away wherever your eyes were looking, but they were absolutely not, since all of your vision is hidden by the grass of heights of the skyscrapers. \n At the end you crash into something, and fall to the ground. When you rise, you see a huge rabbit that is three times bigger than you.\n \n He was very surprised to see you, and his first question was \"What are you doing here?!\" \n Your answer?\n ",
+      "answers": [
+        {
+          "text": "Tell him what happened to you",
+          "nextNodeId": 10
+        },
+        {
+          "text": "Ask him the same question",
+          "nextNodeId": 10
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Only you wanted to open your mouth to say something, you suddenly realize that the rabbit can't hear you. Apparently the difference in height also made your throat smaller. The rabbit, realizing that you are trying to say something unsuccessfully decides to give you and enlargment potion. After drinking it, you become taller, reaching your usual height of around 178 cm (and this is your \"usual height\"?) \n You tell the rabbits all the stories that happened to you, of course blaming him at the right same time for all your troubles. Of course him, he pulled you into the hole with him, leaving no choice. He made you so small that even the ant that people trample every day became like enemies for you.\n \n The Rabbit, unable to no longer listen to this thing, says that you are imbecile, and that he wishes to not to gave you enlargment poison. Now he wants you to get him a new bottle of potion, for this you need to go to his house and bring it to him. \n \n For a second, you remember everything that happened here to you, remembering all the changes in growth that happened, and the place where you are now, you suddenly realize that ruin relationships with probably the only non-hostile character is a little too much and you decide to bring him his potion \n ",
+      "answers": [
+        {
+          "text": "Go to the Rabbit's house",
+          "nextNodeId": 11
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "On the way to the Rabbit's house, walking through the garden suddenly you see a huge caterpillar. He is sitting on a mushroom and smoking a hookah. You are so surprised that you can't even move. The caterpillar looks at you and says, 'Who are you?' \n Your answer?",
+      "answers": [
+        {
+          "text": "Tell him your name",
+          "nextNodeId": 12
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "You tell the caterpillar your name, and he says, 'Nice to meet you, {playerName}. I am the Caterpillar. I see that you are in a hurry, and that's exactly why I stopped you. To pass me you need to answer a quiz'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 13
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "The Caterpillar asks you, 'There is a book in the big world, it has the same story as yours, but with a different persons. It was written about hundreds years ago. \n Who wrote that book?\n",
+      "answers": [
+        {
+          "text": "J.K.Rowling",
+          "nextNodeId": 14
+        },
+        {
+          "text": "Lewis Carroll",
+          "nextNodeId": 15
+        },
+        {
+          "text": "Arthur Conan Doyle",
+          "nextNodeId": 14
+        }
+      ],
+      "tries": 3
+    },
+    {
+      "id": 15,
+      "text": "The Caterpillar looks at you and says, 'You are right, {playerName}. You are a smart person. But it's not enough, you need to answer one more question'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 16
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "It cries at night, sleeps during the day, in summer it has cherries on it. \n What is it? \n",
+      "answers": [
+        {
+          "text": "A cat",
+          "nextNodeId": 17
+        },
+        {
+          "text": "A tree",
+          "nextNodeId": 18
+        },
+        {
+          "text": "A human",
+          "nextNodeId": 17
+        }
+      ],
+      "tries": 3
+    },
+    {
+      "id": 18,
+      "text": "The Caterpillar smiles and says, 'You are right, {playerName}. Life is not so easy, and you need to use your logics to solve the problems. That's what you will need next to pass me. So the last one question will be: \n There is one plumber that lives in the mushroom kingdom who loves jumping. \n What's his name?",
+      ",answers": [
+        {
+          "text": [],
+          "nextNodeId": 19
+        }
+      ],
+      "tries": 3
+    },
+    {
+      "id": 19,
+      "text": "The Caterpillar looks at you and says, 'You are right, {playerName}. You are a smart person. You can pass me now. But be careful! This world is a one big mess. \n The Caterpillar stands and leave you alone, you on the path... Again... and you still going to the Rabbit's house.'\n",
+      "answers": [
+        {
+          "text": "Go to the Rabbit's house",
+          "nextNodeId": 20
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "You finally reach the Rabbit's house. You knock on the door, and realize that the door is open. You enter the house and find only one table in a hall room. Every other door is locked, so you come closer and see a bottle with a label 'Drink Me'. You remember that you need to bring the potion to the Rabbit so you take the bottle with you. \n But as you pick up the bottle you see a small letter with a four digits '0485', you decide to take this letter with you. \n \n You head back home As you head back, you decide to take a new path, to look around a bit. That's how you find a tent, but no one near.\n \n What will you do?\n",
+      "answers": [
+        {
+          "text": "Enter the tent",
+          "nextNodeId": 21
+        },
+        {
+          "text": "Continue on your way",
+          "nextNodeId": 27
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "You enter the tent and see a lot of things that you never saw before. You see a lot of books, a lot of bottles with different liquids, and a big sword laying on the floor. You see some strange map with a dragons on it. But the differences and diversity of this things give you a thought that owner of this tent is a traveler merchant. \n After you ended your thought you hear a sound of someone coming. You don't want to enter with a fight with a owner of this tent, so you get out first, gladly he didn't see you as he finding something on the ground. \n \n What will you do next?",
+      "answers": [
+        {
+          "text": "Go talk to this stranger",
+          "nextNodeId": 22
+        },
+        {
+          "text": "Go another way and dissapear",
+          "nextNodeId": 27
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "You come closer to the stranger and he sees you, he decided to immediately stand up and greet you so that you could look at him closer, and you understand that he was a cat, with a body of a man. What a weird world we in?. \n\n \n He says: 'M'aiq is greet you, stranger. Who are you?' \n",
+      "answers": [
+        {
+          "text": "Tell him your name",
+          "nextNodeId": 23
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "You tell the cat your name, and he says, 'M'aiq is glad to meet you, {playerName}. What are you doing here?' \n Your answer?",
+      "answers": [
+        {
+          "text": "Tell him what happened to you",
+          "nextNodeId": 24
+        },
+        {
+          "text": "Ask him the same question",
+          "nextNodeId": 25
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "You tell the cat your story, or should I say 'M'aiq is received the information.' And After that he's just stares at you, until you didn't ask him the same question.",
+      "answers": [
+        {
+          "text": "Ask him the same question",
+          "nextNodeId": 25
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "You ask the cat what he is doing here, and he says, 'M'aiq is here to find the truth. But the truth is not always what you want to hear. Sometimes the truth is a lie, and sometimes the lie is the truth. M'aiq came here from distant lands, you probably didn't even think of. But M'aiq is not here to talk about the truth, M'aiq is here to talk about the future. \n \n M'aiq is here to tell you that you are in a big trouble. You are in a world that is not yours, and you need to find a way back. But the way back is not easy. You need to find the door that will lead you back to your world.",
+      "answers": [
+        {
+          "text": "Ask him where to find the door",
+          "nextNodeId": 26
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "M'aiq don't know, because M'aiq never wanted to leave this place. I know someone who can help you, but you need to ask the Rabbit first. \n M'aiq don't know this man, but he knows that The Rabbit knows.",
+      "answers": [
+        {
+          "text": "Go back to the Rabbit",
+          "nextNodeId": 27
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "You turn around and go back to The Rabbit. After a long way you finally reach to him. You found him in the garden, sitting with a cup of tea. When he sees you, he says, 'Oh, you are back. Did you bring me the potion?' \n Your answer?",
+      "answers": [
+        {
+          "text": "Yes",
+          "nextNodeId": 28
+        },
+        {
+          "text": "Yes, but...",
+          "nextNodeId": 29
+        },
+        {
+          "text": "No",
+          "nextNodeId": 900
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "text": "You say No, and the Rabbit looks at you and says, 'Oh, I see. You are one of those people who doesn't want to help others. You are one of those people who only thinks about themselves. You are one of those people who doesn't deserve to be helped. You are one of those people who will never find the key to the door that will lead you back to your world. You are one of those people who will stay here forever. \n \n You are one of those people who will never be happy. \n \n You are one of those people who will never be loved. \n \n You are one of those people who will never be missed. \n \n You are one of those people who will never be remembered.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 901
+        }
+      ]
+    },
+    {
+      "id": 901,
+      "text": "You are one of those who always puts yourself above others. You are one of those who do not know what true friendship is. You are one of those who, if you encounter something good in life, will definitely destroy it with your own hands. You are one of those who will always feel lonely, even in a crowd of people. You are one of those who are incapable of loving and being loved.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 902
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "text": "You are one of those who will always be pathetic and insignificant. You are one of those whose dreams will never come true. You are one of those who will be forgotten by everyone as soon as you disappear from sight. You are one of those who will never leave a mark on this world, whose existence will have no meaning. You are one of those who will always look at the happiness of others, but will never feel it yourself.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 903
+        }
+      ]
+    },
+    {
+      "id": 903,
+      "text": "You are one of those who will suffer all your life and no one will give you a helping hand. You are one of those whose life will be full of disappointments and losses. You are one of those who will never understand what it means to be truly alive. You are one of those who will never hear words of gratitude and appreciation. You are one of those who don't deserve anything good.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 904
+        },
+        {
+          "text": "Take out the potion and drink it",
+          "nextNodeId": 905
+        },
+        {
+          "text": "Take out the potion and give it to the Rabbit",
+          "nextNodeId": 906
+        }
+      ]
+    },
+    {
+      "id": 904,
+      "text": "You look at the angry Rabbit, and you don't seem to take out the potion. The Rabbit comes closer, in his eyes you see sparkles. 'Do you think this is a joke? Are you laughing at me? You have no idea what awaits you...",
+      "answers": [
+        {
+          "text": "Kick The Rabbit",
+          "nextNodeId": 909
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "text": "You take the potion out of your pocket and decide to drink it. While you are doing this, you see how the Rabbit is trying to run up to you in order to take it away, but it is too late, by the time he got there, the potion was successfully emptied. You hear: 'You... you lied to me! Did you think you could deceive me? Do you think you are smarter than me? Do you think your cunning will save you?' but it’s too late to answer him, you shrink in size to the size of an ant. \n When you become small, you try to escape, but soon enough you realize that it was a bad idea, as a Rabbit had just smashed you with his toe. \n \n \n So now you are just a pool of blood smeared on the floor.",
+      "answers": [
+        {
+          "text": "Restart the game?",
+          "nextNodeId": 1
+        },
+        {
+          "text": "Exit to the main menu",
+          "nextNodeId": 0
+        }
+      ]
+    },
+    {
+      "id": 906,
+      "text": "You secretly takes out the potion out of your backpack and show it to the Rabbit. He, seeing the potion, throws up his pawns and shouts: You!... You lied to me! Did you think you could fool me? Do you think you're smarter than me? Do you thin you can play me?' \n The Rabbit begins to sparkle, his eyes is turn red, filling with rage. 'You're one of those who always tries to avoid the consequences of your actions. You're one of those who always thinks that you can cheat your way out of any situation. But you don't know who you're dealing with. You don't know what's here, in this world, your lies will become your curse.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 907
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "text": "The Rabbit stretches his paw, and you feel how your legs become heavy, as glued to the ground. 'Now you will feel all the pain and despair that you have caused others with your lies and betrayal. You will feel what it is like to be deceived. You will remain here in this world forever. And every day you will remember that you could have returned home, but you closed this door to yourself'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 908
+        }
+      ]
+    },
+
+    {
+      "id": 908,
+      "text": "The Rabbit slowly goes away, leaving you alone, shrouded with beautiful garden and despair. You are standing there, unable to move, unable to think, unable to do anything. You are standing there, feeling the weight of your own lies and betrayal. You are standing there, feeling the pain and despair that you have caused to others,  feeling the emptiness and loneliness that you have brought to yourself. \n And you will stay here forever.\n \n You see sun goes down, but no soul was walk near you. \n \n Just you, and your thoughts, forever...",
+      "answers": [
+        {
+          "text": "Restart the game?",
+          "nextNodeId": 1
+        },
+        {
+          "text": "Exit to the main menu",
+          "nextNodeId": 0
+        }
+      ]
+    },
+    {
+      "id": 909,
+      "text": "You kick the Rabbit. Kicked him so hard that he flew off and hit the tree. You see how he slowly gets up, and you see the anger in his eyes. You are not the one to mess with, so you come closer and kick him more. He lies unconscious, but you don't seem to stop. You look at him, you see eyes that desperately tries to say something, but you lift your leg, and giving your last kick.\n You hear a crack, and blood, you lift your leg and see his smushed face. \n You killed him. \n You killed the Rabbit. The only one who could help you. Now you stuck here forever.",
+      "answers": [
+        {
+          "text": "Restart the game?",
+          "nextNodeId": 1
+        },
+        {
+          "text": "Exit to the main menu",
+          "nextNodeId": 0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Great! I'm glad that you turned out to be a good person. This is a rare quality in these days. So, as you helped me, maybe I can help you. Ask me anything, I'm all yours. \n Your questions? \n",
+      "answers": [
+        {
+          "text": "Where can I find the key to the door?",
+          "nextNodeId": 800
+        },
+        {
+          "text": "How can I get back to my world?",
+          "nextNodeId": 801
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "text": "'I beg your pardon, I don't know of which key are you actually talking about.",
+      "answers": [
+        {
+          "text": "The key to the door that will lead me back to my world",
+          "nextNodeId": 801
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "text": "Ah, I see. You are talking about the key to the door that will lead you back to your world. I know where it is, but I can't give it to you. It's in the hands of the man who lives in the forest. \n As usually you nodded your head and smiled, for another second you didn't get what he actually said. But when you did...'",
+      "answers": [
+        {
+          "text": "A HUMAN LIKE ME?",
+          "nextNodeId": 31
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "You say, 'Yes, but I need your help first. I need to find the key to the door that will lead me back to my world.' The Rabbit looks at you and says, '*sign* I knew you will ask me this... Why does everyone wants to leave? Do you think that we are bad? You doesn't like this place? Why you want to leave?",
+      "answers": [
+        {
+          "text": "'I don't belong here'",
+          "nextNodeId": 30
+        },
+        {
+          "text": "'I miss my family'",
+          "nextNodeId": 30
+        },
+        {
+          "text": "'It's not my world'",
+          "nextNodeId": 30
+        },
+        {
+          "text": "'I like this place, it's quite interesting, but I need to go back'",
+          "nextNodeId": 30
+        },
+        {
+          "text": "'I hate rabbits'",
+          "nextNodeId": 910
+        }
+      ]
+    },
+    {
+      "id": 910,
+      "text": "Rabbit looks at you in confusion. 'What did I do to you? Why do you hate me? What did I do to you?' \n You answer?",
+      "answers": [
+        {
+          "text": "Say sorry",
+          "nextNodeId": 911
+        },
+        {
+          "text": "Don't say sorry, tell him why you hate him",
+          "nextNodeId": 907
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "text": "You say sorry: 'Sorry man, I just don't like rabbits, but not you personally. No offence.' \n Rabbit shakes his head to understand that he is not sleeping and this is happening in reality, and says \n 'Well...I'm surprised, but anyways *coughs* I know someone who might help you. He came here same as you long time ago. I will take you to him, but I don't know if he will talk to you. But i guess it's anyway better than sit here with someone who hates me for being a rabbit...",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 32
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "The Rabbit answers: 'Well...I do understand. But still it's very disappointing.' \n As he says the last word, he looks at you for a second, he see a glimpse of pitinies and regret in your eyes. \n 'You know... Maybe I can help you, I know someone who came here same as you, but I don't know if this human would like to talk with you...' \n As usually you nodded your head and smiled, for another second you didn't get what he actually said. But when you did...'",
+      "answers": [
+        {
+          "text": "A HUMAN LIKE ME?",
+          "nextNodeId": 31
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "The Rabbit looks at you and says, 'Yes, a human came here long before you, I can take you to him if you want, but he never talked to another human, so I don't know if he will talk to you. But I can try to help you.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 32
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "You nod your head and follow the Rabbit. After a long way you finally reach to the place where the human lives. \n You see a small house in a forest. The Rabbit knocks on the door. \n As the door opens you see a bearded man probably 50-60 years old. He squints at you, and then put on his glasses, looks at you once again, and says, \n'Human? Here? Who are you?' \nYour answer?",
+      "answers": [
+        {
+          "text": "Say Hello",
+          "nextNodeId": 33
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Once you want to tell him your name, a Rabbit interrupts you and says, 'He is {playerName}, he came here same as you did, and he needs help to get back to his world.' \nThis bearded man tells you to come in, and you enter his house. You see a old acoustic guitar, lot of old books and a buzzing radio which picks up some signals every now and then. \nThe Man tells you to sit down, and says 'Maybe you want some tea? Or water?' You asked for water. \n When he brought you water, he went into another room with a rabbit to talk.",
+      "answers": [
+        {
+          "text": "Wait",
+          "nextNodeId": 35
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "You abruptly hear their voices from the other room. They talked about you, and... a tea? Why everyone is so hooked on tea? Anyway, they are coming back. \n'Sorry for that' he says, 'My name is Billy, Billy Shears, and who will you be, wanderer?'",
+      "answers": [
+        {
+          "text": "Tell him your story",
+          "nextNodeId": 36
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "'Oh, I see... Interesting. You see, I came here in a very different way than you did, so I don't know nothing about the nature of this hole that you fell into.' \n'But I do know something else, I know a way out of here. But as everything in this life, it has a catch.' \n'Come with me and I will show you'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 37
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "You follow Billy Shears, he leads you to the kitchen, where he lifts the carpet beneath the table, and you see a trapdoor. He opens it, and you see a ladder downstairs. \n 'We need to go down there, don't be afraid, it's just my basement.' \nYou go down, and when you arrived, you see a huge room with access to the pool.",
+      "answers": [
+        {
+          "text": "Ask him: 'Where are we?'",
+          "nextNodeId": 38
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "You ask Billy Shears, 'Where are we?' \nHe looks at you and says, 'This is my basement, or should i say my harbor.' \n'Harbor?' you ask. \nBut before you even finish your question, a stream of bright light illuminates everything around you, and you see a huge ship in the middle of the room. It's a Yellow Submarine'\n'Yes, a harbor. This is my Submarine. I built it long time ago, to escape the real world, but I ended up here.'",
+      "answers": [
+        {
+          "text": "Ask him: 'How can I get back to my world?'",
+          "nextNodeId": 39
+        },
+        {
+          "text": "Ask him: 'Why you don't want go back?",
+          "nextNodeId": 40
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "'Well... I wish it was that easy.' - Billy says \n'The thing is that when I first got here, I tried to get out too, and while wandering through the local ocean, I have noticed pretty interesting thing. \nYou see, if my theory is correct, then it all looks like this: \n \nYou get here through one hole, and you have to get out of here through another hole also.'",
+      "answers": [
+        {
+          "text": "Say: 'That doesn't mean any sense",
+          "nextNodeId": 44
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "'Why me?' - Billy laughs \n'You see, I am happy here. I know that this must sound confusing, but I am trully happy here.'\n'Back when I came here, i tried to find a peace, tried to find that one place, where nobody will know me, or my past. And I found it here.'",
+      "answers": [
+        {
+          "text": "Ask him: 'Tell me more about your past'",
+          "nextNodeId": 41
+        },
+        {
+          "text": "Say: 'So how can I get back to my world?'",
+          "nextNodeId": 46
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "'Long ago, I was a musician in a band... Lonely Hearts Club Band. But times change, so do my life, or should I say ours.'\nMe and my friends were together since 14 years old, we started as a pub band, played for slugs in a tavern, but little here, a little there and we started occupy the arenas.\nWhole world loved us, we were famous like no one was ever before. But that victory did not last long, and soon everything has changed.'",
+      "answers": [
+        {
+          "text": "What happened?",
+          "nextNodeId": 42
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Our manager died, and we were left alone. We were young, we were rich, we were famous, but we were alone. And that's when we started to fall apart. \nWe were not friends anymore, we were just people who played together.\nAs our manager passed, all of the paperwork came to our heads. We were left with bills to pay, contracts to sign, and scammers that wanted to rip a little of our fame.\nAnd that's when I decided to leave. \nI left everything, my friends, my family, my life. I left everything behind and went to the sea.\nI wanted to find some place beneath the ocean, where nobody would know me, and where I could live my peaceful life. But instead i came across to a Giant Octopus that smashed me and my submarine into a big hole in the rocks. \nAnd that's when I found this place. \nAnd that's when I found peace.",
+      "answers": [
+        {
+          "text": "Ask him: 'What about your friends?'",
+          "nextNodeId": 43
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "I don't know. I haven't seen them since I left. I don't know if they are still alive, or dead. If they still play, or if they still friends. I don't know. And I don't want to know. \nI found my peace here, and I don't want to ruin it. \nBut you, you are different. You are young, you are full of life, you are full of energy. You need to go back. You need to find your way back to your world. \nAnd I will help you. \nI will help you to find the plug to that will lead you back to your world.",
+      "answers": [
+        {
+          "text": "Say: 'So, how can I find it?'",
+          "nextNodeId": 44
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "'Well... I wish it was that easy.' - Billy says \n'The thing is that when I first got here, I tried to get out too, and while wandering through the local ocean, I have noticed pretty interesting thing. \nYou see, if my theory is correct, then it all looks like this: \n \nYou get here through one hole, and you have to get out of here through another hole also.'",
+      "answers": [
+        {
+          "text": "Say: 'That doesn't mean any sense",
+          "nextNodeId": 45
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "'I know, but is there anything in this world that makes sense?' - Billy laughs. \nYou think about it for a second.\n'The very concept of the word 'sense' was invented by people, and only people decide what makes sense to them and what doesn't. \n'The same one thing can be wild for people, but common thing for the rabbit.'",
+      "answers": [
+        {
+          "text": "Say: 'So how can I get back to my world?'",
+          "nextNodeId": 46
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "'Well...Through this pool you can get to the ocean, at the bottom of which there is a hole. But as far as I know, that hole is plugged. So you will need to somehow unplug it to set yourself free.",
+      "answers": [
+        {
+          "text": "But how do I do this?",
+          "nextNodeId": 47
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Billy laughs, 'Well, I wish I knew my friend. You want to go home right?'",
+      "answers": [
+        {
+          "text": "Yes",
+          "nextNodeId": 48
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Then you will find out.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 49
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "You follow Billy Sheers to the pool, while you are walking you hear that Rabbit is shouting your name {playerName}! You turn around and see him running to you. \n 'This might be the last time you see me', he says, 'I wanted to say that it was very fun to hang out with you, even though it didn`t last as long as I had hoped' \n Billy Smiles.",
+      "answers": [
+        {
+          "text": "'Thank you Rabbit!'",
+          "nextNodeId": 50
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "And one more thing... When you will arive home, don't forget to say 'Hi' to your family.\nBilly interupting this cute dialogue with a words of wisdom: 'Look, we know that plugged hole is on the bottom of the ocean, my submarine is capable to deliver you there, so don`t worry, but the rest is on you.\nAre you ready?'",
+      "answers": [
+        {
+          "text": "Get on board",
+          "nextNodeId": 51
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "You get on board, and Billy Shears starts the engine. The submarine starts to move, and you see waving Rabbit that dissolves in the water. You see water all around you, and you goind deeper. \n You see a lot of fish, and you see a lot of corals. A lot of things that you never saw appeared before your eyes. And as soon as the sumbarine goes deeper into the water, you go deeper inside your mind... \n What was all that? \n How I'm suppose to feel myself after that? \n'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 52
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "What was it? \n Was it all a dream? Strange, because it clearly dosn`t feel like a dream. It felt real, every goosebump on your body tells you that it was real. \n But what if it was? What if it all was real? And you are god knows where, whith no way to get back.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 53
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "But as soon as you think about it, Billy shakes your shoulder, 'We are here, {playerName}!' \n You look out of the window, and see a huge bath plug that is blocking the hole. \n 'We are on the halfway to let you free. Now let's see what we can do to open the hole...",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 54
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Only you started to think about it, you see a huge octopus that is swimming towards you. You are so scared that you can't even move. \n Billy Shears took the steering wheel and dodged him.'",
+      "answers": [
+        {
+          "text": "'What the hell??'",
+          "nextNodeId": 55
+        },
+        {
+          "text": "'Holy Moly!'",
+          "nextNodeId": 55
+        },
+        {
+          "text": "'What the f*ck?'",
+          "nextNodeId": 55
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Billy doesn't answer, he just stares at the window. While he is staring at the window, and you at him, you see on the edge of your eyes that octopus is coming back. \n You scream 'BILLY! WAKE UP!' and he turns the submarine around, dodging the octopus again. \n For now the octopus dissapeared. \n Billy looks at you and says '{playerName}, remember what I told you about the octopus's garden? I think it's my time. I need you to take the wheel.",
+      "answers": [
+        {
+          "text": "What? You can't go there, he will kill you!",
+          "nextNodeId": 56
+        },
+        {
+          "text": "You can`t leave me alone!",
+          "nextNodeId": 56
+        },
+        {
+          "text": "Just take the wheel",
+          "nextNodeId": 57
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "You don't understand! This is my stop {playerName}, I must go...'",
+      "answers": [
+        {
+          "text": "Proceed.",
+          "nextNodeId": 57
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "The next thing you see, is that Billy is quitting with a special hatch, and in a second you see him in the water, through a windshield. \n Billy was swimming with his back on you, towards the plug. When suddenly a giant tentacle has arrived, and took the Billy.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 58
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Billy is screaming and getting away captured by this giant tentacle. You scared, you want to help, but at the same time you thought you saw a smile flash across his face. And he dissapeared. Dissapeared into the shade. \n But it's not the end! You see that a tentacle appeared from the darkness of the ocean and made one huge move, it opened the cork and in a second everything get sucked in.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 59
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "You get sucked into a giant hole, a cascades of water around you, and you fall with a submarine inside the never ending hole. While you falling in this new kind of a rabbithole you started to remember words of a Rabbit, about parents. \n But Why? \n Why did you remember these particular words? \n And finally you see... A light in the end of the tunnel... \n ... Or should I say a hole?...",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 60
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "You open your eyes and see a white blur. In a while it becomes clear, and you see a white ceiling. You are in a hospital. \n You see a nurse that is coming to you, and she says, 'Oh, you are awake! How are you feeling?' \n Your answer?",
+      "answers": [
+        {
+          "text": "Where am I?",
+          "nextNodeId": 61
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "You ask the nurse, 'Where am I?' \n She looks at you and says, 'You are in a hospital, [playerName]. Don't you remember?' \n You don't remember anything. You don't remember how you got here, you don't remember what happened to you. You don't remember anything. \n You ask the nurse, 'What happened to me?' \n She looks at you and says, 'You were in a car accident. The car you were traveling in with your parents was crushed by a large truck on the road. You were in a coma for a week. But now you are awake.'",
+      "answers": [
+        {
+          "text": "What about my parents?",
+          "nextNodeId": 62
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "The nurse looks at you and says, 'I'm sorry, [playerName]. Your parents didn't make it. They died in the accident. You are the only survivor.' \n You don't know what to say. You don't know what to do. You don't know how to react. You don't know anything. \n You are alone. You are alone in this world. You are alone in this life. You are alone in this hospital. You are alone in this room. You are alone.",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 63
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "The quick silence in the room was interupted by the doctor entering the room \n 'Oh, {playerName}, good looking! I've heard that you are awake but I wanted to have a look by myself! How are you kid?",
+      "answers": [
+        {
+          "text": "I'm fine",
+          "nextNodeId": 64
+        },
+        {
+          "text": "I'm not fine",
+          "nextNodeId": 65
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "'I'm fine, except for the fact that I've lost my parents.' \n 'Oh poor child...' Doctor says, 'I can't even imagine what you're going through. But remember, you're not alone in this life. We're here to help you every step of the way.'",
+      "answers": [
+        {
+          "text": "I want to go back where I came from",
+          "nextNodeId": 66
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "'I'm not fine, doctor.' \n The doctor nods his head, you see understanding in his eyes. \n 'That's okay, {playerName}. It's okay to not be fine. It's normal to feel lost after something so traumatic.",
+      "answers": [
+        {
+          "text": "I want to go back where I came from ",
+          "nextNodeId": 66
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "What do you mean?",
+      "answers": [
+        {
+          "text": "I want to go back to the world I came from",
+          "nextNodeId": 67
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "You telling the doctor everything that happened to you. About strange rabbit that you were following, about a big ants and Billy Shears. \n The doctor looks at you and says, 'I'm sorry, {playerName}, but I think you were dreaming. You were in a coma for a week, and I guess this world that you talking about was created by your mind to escape the brutal reality. \n But you are here, with us, and from now on everything gonna be fine.' \n Doctor smiles but you not feeling it.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 68
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Few month later you were released from the hospital. You felt a lot better, but still emptiness in your soul was never filled. \n You walk pass the shops and thinking about your parents, and suddenly you hear something that touches your soul. \n From a music store you hear a song that you somehow heard before, but you can't remember where. \n You come closer to the store and suddenly you enter it. \n You ask seller about the song, and he says, 'Oh, this is a song from a band called Lonely Hearts Club Band. It's a very old song, but still very popular.'",
+      "answers": [
+        {
+          "text": "Proceed",
+          "nextNodeId": 69
+        }
+      ]
+    },
+        {
+          "id": 69,
+          "text": "You ask the seller, 'What is that band?' \n He looks at you and says, 'Oh, you don't know? They were a very famous band in the past.' \n He gives you a vinyl LP and you see a cover with the band members. You suddenly notice a familiar face, you recognize Billy Shears. \n You bought this LP without hesitation, and the seller showed you a special room with a vinyl player where you can check your LP. \n You sat there. \n Put the vinyl in the player. \n Put on the headphones. \n And you disappeared from reality. \n You see that the world around you crumbles and transforms into some new place. \n Finally, you see a Rabbit that was running by, and he sees you, and waves to you. \n You wave back, your heart getting warm again. \n You are home.",
+          "answers": [
+            {
+              "text": "The End",
+              "nextNodeId": 0
+            }
+          ]
+        }
+        ]
+}
